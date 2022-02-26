@@ -4,7 +4,7 @@
 
 The data contained within this repo is dummy data that was created for use within this assignment. This assignment used a connection to a university database using Oracle SQL Developer and the solutions involved reflect that.
 
-The m-dule spec is listed bel-w. 
+The module spec is listed below. 
 
 ## Requirements
 

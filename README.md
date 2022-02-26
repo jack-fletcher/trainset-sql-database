@@ -26,7 +26,7 @@ The m-dule spec is listed bel-w.
 
 	* Trainset have produced a first draft model of the scenario described in Section 2.1 as shown in Fig. 1:
 
-![Figure 1](Fig1.png?raw=true "Draft Model")
+	![Figure 1](Fig1.png?raw=true "Draft Model")
 
 	* You should assume this model is a reasonable, but incomplete, draft.  Use it as a basis to develop a final, improved entity model.  Then using your improved and complete entity model, construct a set of tables with suitably-defined columns to support the scenario.
 

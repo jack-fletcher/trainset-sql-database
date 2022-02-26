@@ -8,7 +8,7 @@ The m-dule spec is listed bel-w.
 
 ## Requirements
 
-* 2.1	2.1	You are required to build a small database to support the needs of a training company called Trainset.  As part of this you will also focus on some elements of security & data protection.  To do this you will need to create tables and SQL code to support the following scenario: 
+* You are required to build a small database to support the needs of a training company called Trainset.  As part of this you will also focus on some elements of security & data protection.  To do this you will need to create tables and SQL code to support the following scenario: 
 
 	-	Trainset run professional short training courses (including ITIL, Project Management, etc.)
 	-	These courses have a title, a duration of 1,2,3,4 or 5 days, and a cost that varies between £300 and £2000 inclusive.
@@ -19,6 +19,8 @@ The m-dule spec is listed bel-w.
 	-	Each time a student attends a course they will give an evaluation of the course (the evaluation is a whole number from 0 to 5).
 	-	Students will attempt an examination for each course they attend. Trainset needs to record the examination result of each student in each examination.
 	-	It is not a requirement that every course run has attendees registered, and it is also not required that every student has to have attended a course.
+
+## Questions
 
 * Question 1
 
